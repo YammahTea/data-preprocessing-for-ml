@@ -1,2 +1,5 @@
 .venv/
 .idea/
+cleaned_car_data.csv
+Plan.txt
+carTask.ipynb
